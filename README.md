@@ -15,5 +15,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:localhost8586@gmail.com)](mailto:localhost8586@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:gjdbs2597@naver.com)](mailto:gjdbs2597@naver.com)
 
-# My Git Stats
+## My Git Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heo-y-y&show_icons=true&theme=radical)

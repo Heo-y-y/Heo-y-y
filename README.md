@@ -11,7 +11,7 @@
 ![Intellij IDEA](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ## Contact && Channel
-[![GitBook Badge](http://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white)](https://localhost8586.gitbook.io/heo-blog/)
+[![GitBook Badge](https://localhost8586.gitbook.io/heo-y-y/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:localhost8586@gmail.com)](mailto:localhost8586@gmail.com)
 
 ## My Git Stats

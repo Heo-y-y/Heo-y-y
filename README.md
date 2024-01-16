@@ -1,13 +1,10 @@
 ## Web Application Developer
 
-### Contact
+### Contact & Channel
 
 [![Gmail Badge](https://img.shields.io/badge/localhost8586@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:localhost8586@gmail.com)](mailto:localhost8586@gmail.com)
-
-### Channel
 [![GitBook Badge](http://img.shields.io/badge/BLOG-3884FF?style=flat-square&logo=gitbook&logoColor=white)](https://localhost8586.gitbook.io/heo-y-y/)
 [![Notion Badge](https://img.shields.io/badge/PROFILE-609926?style=flat-square&logo=notion&logoColor=white)](https://common-mouth-660.notion.site/620dcd4ee97c4f9f9611771b65c7794d?pvs=4)
-
 
 ### Introdce
 
@@ -23,7 +20,4 @@
 - **Database:** Mysql **/** MariaDB **/** JPA **/** Redis
 - **Infra:** AWS **/** Netlify
 - **DevOps:** Git **/** GitHub Action
-
-### My Git Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heo-y-y&show_icons=true&theme=radical)
 

@@ -24,5 +24,4 @@
 - **Infra:** AWS **/** Netlify
 - **DevOps:** Git **/** GitHub Action
 
-## My Git Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heo-y-y&show_icons=true&theme=radical)
+
